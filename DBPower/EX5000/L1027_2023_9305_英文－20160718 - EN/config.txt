@@ -1,0 +1,15 @@
+//-------------------Language------------------//
+Language=#LANG_EN#
+Language=LANG_SC
+Language=LANG_RU
+Language=LANG_JP
+Language=LANG_DE
+Language=LANG_KR
+Language=LANG_TH
+//-------------------Version------------------//
+Version-Date=*20160718V1.0*
+Version-Num=%DBPOWER%
+//--------------------WIFI------------------//
+SSID=@EX5000@
+Password=&12345678&
+//-----------------------
